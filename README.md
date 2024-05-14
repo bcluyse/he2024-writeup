@@ -17,10 +17,12 @@
 	- [[Primetime]]
 	- [[Space64]]
 	- [[Wise Rabbit]]
+	- [[Prisoners]]
 - Level 5
 	- [[Mr. Slapdash]]
 	- [[Planet Index]]
 	- [[Tricky Chicken]]
+	- [[gge_desrever]]
 - Level 6
 	- [[Hatch Latch]]
 	- [[Lost in primes]]
@@ -30,5 +32,9 @@
 - Level 7
 	- [[Moduless]]
     - [[Dizzazzembly]]
+    - [[Power Lines]]
+    - [[Piece of Cake 2]]
 - Level 8
-- Level 9
+	- [[Yellow Door]]
+	- [[Double Hopper]]
+	- [[Ants in my Telly]]
