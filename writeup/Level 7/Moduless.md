@@ -69,6 +69,6 @@ phi = -n + h1 + h2 + 1
 n = h1 + h2 - phi + 1
 ```
 
-The implementation can be found in [[src/7/moduless.py]]
+The implementation can be found in [[moduless.py]]
 If we try this for k values between 1 and 1000 and decrypt the messages for these n, we eventually find the flag
 he2024{n_r3ec0v3r3d!}

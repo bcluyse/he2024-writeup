@@ -1,5 +1,5 @@
 - Level 1
-	- [[HackyEaster.2023/Level 1/Sanity Check|Sanity Check]]
+	- [[CTF/HackyEaster.2023/Level 1/Sanity Check|Sanity Check]]
 - Level 2
 	- [[The Duck]]
 	- [[Chef's Kiss]]
